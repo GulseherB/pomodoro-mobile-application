@@ -127,7 +127,7 @@ const styles = StyleSheet.create({
     backgroundColor: '#d1d1d1',
   },
   durationValue: {
-    fontSize: 20,
+    fontSize: 22,
     fontWeight: '600',
     color: '#1f2933',
     minWidth: 60,
